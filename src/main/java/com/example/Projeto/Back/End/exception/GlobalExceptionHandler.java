@@ -1,6 +1,5 @@
-package exception;
+package com.example.Projeto.Back.End.exception;
 
-import exception.ApiError;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

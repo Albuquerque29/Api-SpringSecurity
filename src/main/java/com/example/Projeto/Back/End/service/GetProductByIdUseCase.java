@@ -1,10 +1,10 @@
-package service;
+package com.example.Projeto.Back.End.service;
 
-import exception.ProductNotFoundException;
-import model.Product;
+import com.example.Projeto.Back.End.exception.ProductNotFoundException;
+import com.example.Projeto.Back.End.model.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.ProductRepository;
+import com.example.Projeto.Back.End.repository.ProductRepository;
 
 import java.util.Optional;
 import java.util.UUID;

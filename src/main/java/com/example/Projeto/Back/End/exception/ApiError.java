@@ -1,4 +1,4 @@
-package exception;
+package com.example.Projeto.Back.End.exception;
 
 import lombok.Data;
 
